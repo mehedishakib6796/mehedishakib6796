@@ -30,7 +30,7 @@ Eigulu apnar repository-te thaka asol technology:
 ---
 
 ### 📊 Real-Time GitHub Statistics
-Eikhane apnar asol commit ebong language-er data dekha jabe:
+This Is real Technology
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mehedishakib6796&show_icons=true&theme=tokyonight&count_private=true" alt="Mehedi's Stats" />
