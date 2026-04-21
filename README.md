@@ -24,15 +24,15 @@
   <tr>
     <td width="60%" valign="top">
       <br />
-      <p>👋 Hi, I'm <b>Mehedi Hasan Shakib</b>, a passionate Developer from Bangladesh.</p>
-      <p>🎓 Currently studying <b>Computer Science</b> at AIUB.</p>
-      <p>💻 Specialized in <b>NestJS, TypeScript, and PostgreSQL</b>.</p>
+      <p>👋 Hi, I'm <strong>Mehedi Hasan Shakib</strong>, a passionate Developer from Bangladesh.</p>
+      <p>🎓 Currently studying <strong>Computer Science</strong> at AIUB.</p>
+      <p>💻 Specialized in <strong>NestJS, TypeScript, and PostgreSQL</strong>.</p>
       <p>🛠️ Working on scalable backend architectures and clean code.</p>
-      <p>📫 Reach me at: <b>support@aiub.edu</b></p>
+      <p>📫 Reach me at: <strong>support@aiub.edu</strong></p>
     </td>
     <td width="40%" align="center">
-      <img src="https://cdnjs.cloudflare.com/ajax/libs/svg-turntable/0.0.1/coding.gif" width="300" />
-      </td>
+      <img src="https://media.giphy.com/media/26n6Gx9moCgs1pUuk/giphy.gif" alt="Developer Coding Animation" width="300" />
+    </td>
   </tr>
 </table>
 
