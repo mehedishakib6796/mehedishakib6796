@@ -28,23 +28,24 @@
 ---
 
 ### 💻 My Technical Arsenal
-
 <table>
   <tr>
-    <td align="center" width="33%">
-      <b>Backend & Languages</b><br />
-      <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express" />
+    <td width="60%" valign="top">
+      <h2>👋 About Me</h2>
+      <p>Hi, I'm <strong>Mehedi Hasan Shakib</strong>, a passionate Developer from Bangladesh.</p>
+      <ul>
+        <li>🎓 Currently studying <strong>Computer Science</strong> at AIUB.</li>
+        <li>💻 Specialized in <strong>NestJS, TypeScript, and PostgreSQL</strong>.</li>
+        <li>🛠️ Working on scalable backend architectures and clean code.</li>
+      }
     </td>
-    <td align="center" width="33%">
-      <b>Databases & ORM</b><br />
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
-    </td>
-    <td align="center" width="33%">
-      <b>Tools & Workflow</b><br />
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+    <td width="40%" align="center" valign="middle">
+      <img src="https://github.com/ashish-shukla/ashish-shukla/blob/main/developer_activity.gif?raw=true" alt="Developer Coding Animation" width="100%" />
     </td>
   </tr>
 </table>
+
+---
 
 ---
 
