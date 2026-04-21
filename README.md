@@ -20,32 +20,42 @@
 ---
 
 ### 🚀 About Me
-- 👋 Hi, I'm **Mehedi Hasan Shakib**, a passionate Developer from Bangladesh.
-- 🎓 Currently studying **Computer Science** at AIUB.
-- 💻 Specialized in **NestJS, TypeScript, and PostgreSQL**.
-- 🛠️ Working on scalable backend architectures and clean code.
-
----
-
-### 💻 My Technical Arsenal
 <table>
   <tr>
     <td width="60%" valign="top">
-      <h2>👋 About Me</h2>
-      <p>Hi, I'm <strong>Mehedi Hasan Shakib</strong>, a passionate Developer from Bangladesh.</p>
-      <ul>
-        <li>🎓 Currently studying <strong>Computer Science</strong> at AIUB.</li>
-        <li>💻 Specialized in <strong>NestJS, TypeScript, and PostgreSQL</strong>.</li>
-        <li>🛠️ Working on scalable backend architectures and clean code.</li>
-      }
+      <br />
+      <p>👋 Hi, I'm <b>Mehedi Hasan Shakib</b>, a passionate Developer from Bangladesh.</p>
+      <p>🎓 Currently studying <b>Computer Science</b> at AIUB.</p>
+      <p>💻 Specialized in <b>NestJS, TypeScript, and PostgreSQL</b>.</p>
+      <p>🛠️ Working on scalable backend architectures and clean code.</p>
+      <p>📫 Reach me at: <b>support@aiub.edu</b></p>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://github.com/ashish-shukla/ashish-shukla/blob/main/developer_activity.gif?raw=true" alt="Developer Coding Animation" width="100%" />
-    </td>
+    <td width="40%" align="center">
+      <img src="https://cdnjs.cloudflare.com/ajax/libs/svg-turntable/0.0.1/coding.gif" width="300" />
+      </td>
   </tr>
 </table>
 
 ---
+
+### 💻 My Technical Arsenal
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <b>Backend & Languages</b><br />
+      <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express" />
+    </td>
+    <td align="center" width="33%">
+      <b>Databases & ORM</b><br />
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
+    </td>
+    <td align="center" width="33%">
+      <b>Tools & Workflow</b><br />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+    </td>
+  </tr>
+</table>
 
 ---
 
