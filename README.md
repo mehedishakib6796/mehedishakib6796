@@ -22,7 +22,7 @@
 ### 🚀 About Me
 <table>
   <tr>
-    <td width="55%" valign="top">
+    <td width="60%" valign="top">
       <br />
       <p>👋 Hi, I'm <b>Mehedi Hasan Shakib</b>, a passionate Developer from Bangladesh.</p>
       <p>🎓 Currently studying <b>Computer Science</b> at AIUB.</p>
@@ -30,9 +30,8 @@
       <p>🛠️ Working on scalable backend architectures and clean code.</p>
       <p>📫 Reach me at: <b>support@aiub.edu</b></p>
     </td>
-    <td width="45%" align="center">
-      <img src="https://lottie.host/embed/5a22834b-841c-4b6e-8d8a-637953258597/2d6hYdc21E.json" style="display:none" />
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="300" alt="Website Design Animation" />
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueXF6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ/u0m38v89/giphy.gif" width="350" alt="Website Design Animation" />
     </td>
   </tr>
 </table>
