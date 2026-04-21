@@ -24,18 +24,16 @@
   <tr>
     <td width="60%" valign="top">
       <br />
-      <p>👋 Hi, I'm <strong>Mehedi Hasan Shakib</strong>, a passionate Developer from Bangladesh.</p>
-      <p>🎓 Currently studying <strong>Computer Science</strong> at AIUB.</p>
-      <p>💻 Specialized in <strong>NestJS, TypeScript, and PostgreSQL</strong>.</p>
+      <p>👋 Hi, I'm <b>Mehedi Hasan Shakib</b>, a passionate Developer from Bangladesh.</p>
+      <p>🎓 Currently studying <b>Computer Science</b> at AIUB.</p>
+      <p>💻 Specialized in <b>NestJS, TypeScript, and PostgreSQL</b>.</p>
       <p>🛠️ Working on scalable backend architectures and clean code.</p>
-      <p>📫 Reach me at: <strong>support@aiub.edu</strong></p>
     </td>
-    <td width="40%" align="center">
-      <img  alt="Developer Coding Animation" width="300" />
+    <td width="40%" align="right">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="Coding Animation" />
     </td>
   </tr>
 </table>
-
 ---
 
 ### 💻 My Technical Arsenal
