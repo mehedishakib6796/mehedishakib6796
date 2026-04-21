@@ -31,7 +31,7 @@
       <p>📫 Reach me at: <strong>support@aiub.edu</strong></p>
     </td>
     <td width="40%" align="center">
-      <img src="[https://media.giphy.com/media/26n6Gx9moCgs1pUuk/giphy.gif](https://www.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_11602236.htm#fromView=keyword&page=1&position=0&uuid=723ba07f-4965-4559-9203-c76df4b2f301&query=Cartoon+software+engineer)" alt="Developer Coding Animation" width="300" />
+      <img  alt="Developer Coding Animation" width="300" />
     </td>
   </tr>
 </table>
