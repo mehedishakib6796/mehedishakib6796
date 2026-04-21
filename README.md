@@ -28,10 +28,11 @@
       <p>🎓 Currently studying <b>Computer Science</b> at AIUB.</p>
       <p>💻 Specialized in <b>NestJS, TypeScript, and PostgreSQL</b>.</p>
       <p>🛠️ Working on scalable backend architectures and clean code.</p>
+      <p>📫 Reach me at: <b>support@aiub.edu</b></p>
     </td>
-    <td width="40%" align="right">
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="Coding Animation" />
-    </td>
+    <td width="40%" align="center">
+      <img src="https://lottie.host/8e20790d-c6a6-4444-9642-e160e160e160/example.gif" alt="Programming Animation" width="350" />
+      </td>
   </tr>
 </table>
 ---
