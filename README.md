@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Mehedi%20Hasan%20Shakib&fontSize=70&animation=fadeIn&fontAlignY=35" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Mehedi%20Hasan%20Shakib&fontSize=70&animation=pulse" alt="header" />
 
-  <p><b>🚀 Full-Stack Developer | Backend Specialist | Tech Enthusiast</b></p>
+  <p><b>Full-Stack Developer | Backend Specialist | Tech Enthusiast</b></p>
 
   <a href="https://www.facebook.com/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
@@ -24,16 +24,21 @@
   <tr>
     <td width="60%" valign="top">
       <br />
-      <p>👋 Hi, I'm <strong><kbd>Mehedi Hasan Shakib</kbd></strong>, a passionate Developer from Bangladesh.</p>
+      <p>👋 Hi, I'm <strong>Mehedi Hasan Shakib</strong>, a passionate Developer from Bangladesh.</p>
       <p>🎓 Currently studying <b>Computer Science</b> at AIUB.</p>
       <p>💻 Specialized in <b>NestJS, TypeScript, and PostgreSQL</b>.</p>
       <p>🛠️ Working on scalable backend architectures and clean code.</p>
+      <p>📫 Reach me at: <b>support@aiub.edu</b></p>
     </td>
     <td width="40%" align="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding Animation" />
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehedishakib6796&show_icons=true&theme=radical&count_private=true&animation=waving" alt="Mehedi's Wave Stats" />
+</div>
 
 ---
 
@@ -60,7 +65,6 @@
 
 ### 📊 GitHub Real-Time Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehedishakib6796&show_icons=true&theme=radical&count_private=true" alt="Mehedi's Stats" /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedishakib6796&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
@@ -72,5 +76,5 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </div>
