@@ -31,7 +31,7 @@
       <p>📫 Reach me at: <b>support@aiub.edu</b></p>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueXF6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ/u0m38v89/giphy.gif" width="350" alt="Website Design Animation" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding Animation" />
     </td>
   </tr>
 </table>
