@@ -38,13 +38,35 @@
 
 ---
 
-### 🏗️ Technical Stack
-<div align="center">
-  <!-- Glowing Tech Icons -->
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nestjs,ts,js,html,css,tailwind,postgres,prisma,git,github,vscode,postman,docker,selenium,figma,linux&theme=dark" />
-</div>
-
 ---
+
+### 🛠️ Technical Arsenal
+
+<!-- Languages Section -->
+<p align="left"><b>🌐 Languages:</b></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,cpp" />
+</p>
+
+<!-- Frameworks & Runtimes -->
+<p align="left"><b>🚀 Frameworks & Runtimes:</b></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,react,nextjs,tailwind" />
+</p>
+
+<!-- Databases & ORM -->
+<p align="left"><b>🗄️ Databases & ORM:</b></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma" />
+</p>
+
+<!-- Tools & Testing -->
+<p align="left"><b>🔧 Tools & SQA:</b></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,selenium,postman,vscode,figma" />
+</p>
+
+------
 
 ### 📂 Major Projects
 - 🏛️ **UniConnect** – A full-scale University Management System.
