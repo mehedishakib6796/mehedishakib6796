@@ -40,33 +40,34 @@
 
 ---
 
-### 🛠️ Technical Arsenal
+---
 
-<!-- Languages Section -->
-<p align="left"><b>🌐 Languages:</b></p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,cpp" />
-</p>
+### 🛠️ Technical Ecosystem
 
-<!-- Frameworks & Runtimes -->
-<p align="left"><b>🚀 Frameworks & Runtimes:</b></p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,react,nextjs,tailwind" />
-</p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <b>🌐 Languages</b><br/>
+      <img src="https://skillicons.dev/icons?i=ts,js,html,css,cpp" />
+    </td>
+    <td valign="top" width="50%">
+      <b>🚀 Frameworks & Runtimes</b><br/>
+      <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,react,nextjs,tailwind" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <b>🗄️ Databases & ORM</b><br/>
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma" />
+    </td>
+    <td valign="top" width="50%">
+      <b>🔧 Tools & SQA</b><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,selenium,postman,vscode,figma" />
+    </td>
+  </tr>
+</table>
 
-<!-- Databases & ORM -->
-<p align="left"><b>🗄️ Databases & ORM:</b></p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma" />
-</p>
-
-<!-- Tools & Testing -->
-<p align="left"><b>🔧 Tools & SQA:</b></p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,selenium,postman,vscode,figma" />
-</p>
-
-------
+---------
 
 ### 📂 Major Projects
 - 🏛️ **UniConnect** – A full-scale University Management System.
