@@ -34,29 +34,41 @@
 
 <br/>
 
-<!-- ABOUT ME -->
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="Coding Animation" />
+---
 
+<!-- ABOUT ME — New Card Design -->
 ## ⚡ About Me
 
-```js
-const shakib = {
-  role: "Full-Stack Developer",
-  education: "CSE Student @ AIUB",
-  location: "Bangladesh 🇧🇩",
-  focus: ["Full-Stack Web Apps", "REST APIs", "Clean Architecture"],
-  currentlyExploring: ["SQA & Selenium", "Machine Learning (YOLOv4)"],
-  funFact: "Also a Full-Stack Developer on Fiverr 💼"
-};
-```
+<table>
+<tr>
+<td width="60%" valign="top">
 
-- 🔭 Building **full-stack applications** with Next.js & NestJS
-- 🏗️ Passionate about **REST API design** & **Role-Based Access Control**
-- 🧪 Exploring **Software QA (Selenium)** & **Machine Learning**
-- 💬 Ask me about **Next.js, NestJS, PostgreSQL, MongoDB, TypeORM**
-- 📫 Reach me at **support@aiub.edu**
+🎓 **CSE Student** at American International University Bangladesh (AIUB)
 
-<br clear="both"/>
+💼 **Full-Stack Developer** freelancing on **Fiverr**, delivering scalable web solutions for clients
+
+🏗️ Building production-ready apps with **Next.js + NestJS + PostgreSQL**
+
+🔐 Focused on clean **REST API design**, **JWT auth**, and **Role-Based Access Control**
+
+🧪 Currently exploring **Software QA (Selenium)** and **Machine Learning (YOLOv4)**
+
+📫 Reach me at **support@aiub.edu**
+
+</td>
+<td width="40%" valign="top">
+
+<div align="center">
+<table>
+<tr><td align="center">🌍<br/><b>Location</b><br/>Bangladesh</td></tr>
+<tr><td align="center">🎯<br/><b>Role</b><br/>Full-Stack Developer</td></tr>
+<tr><td align="center">📚<br/><b>Learning</b><br/>SQA & ML</td></tr>
+</table>
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -123,25 +135,6 @@ const shakib = {
 
 ---
 
-<!-- ARCHITECTURE -->
-## 🏛️ Backend Philosophy
-
-<div align="center">
-
-```
-📦 Patterns & Practices I Follow
-├── 🎯 Controller → Service → Repository Pattern
-├── 🔐 Role-Based Auth Systems (JWT)
-├── 📡 RESTful API Design & Documentation (Swagger)
-├── 🗄️ Relational Data Modeling (TypeORM + PostgreSQL)
-├── 🔔 Real-time Notifications (Pusher)
-└── ✅ Input Validation & Error Handling
-```
-
-</div>
-
----
-
 ## 📂 Featured Projects
 
 **🏨 [Hotel Booking Platform](https://github.com/mehedishakib6796/adv_web_hotel-frontend)**
@@ -186,14 +179,6 @@ Animated business landing page for a food manufacturing brand with an interactiv
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehedishakib6796&theme=tokyonight" width="32%" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehedishakib6796&theme=tokyonight" width="32%" alt="Most Commit Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mehedishakib6796&theme=tokyonight&utcOffset=6" width="32%" alt="Productive Time" />
-</div>
-
----
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=mehedishakib6796&limit=5&theme=default&combine_all_yearly_contributions=true&hide_border=true" width="70%" alt="Top Contributed Repos" />
 </div>
 
 ---
