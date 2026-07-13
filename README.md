@@ -1,19 +1,13 @@
 <!-- HEADER -->
 <div align="center">
-  <!-- Main Container with custom shadow -->
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 50px 20px 70px 20px; border-radius: 24px; margin: 20px 0; box-shadow: 0 15px 35px rgba(118, 75, 162, 0.3); position: relative; overflow: hidden;">
-    
-    <!-- Elegant Outer Box for the Name -->
-    <div style="display: inline-block; padding: 20px 40px; border: 3px solid rgba(255, 255, 255, 0.2); border-radius: 16px; background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); box-shadow: inset 0 0 20px rgba(255, 255, 255, 0.1); margin-bottom: 20px;">
-      <h1 style="color: #ffffff; font-size: 5.5em; font-weight: 900; margin: 0; text-shadow: 3px 3px 8px rgba(0,0,0,0.3); letter-spacing: -1px;">
-        🚀 Mehedi Hasan Shakib
-      </h1>
-    </div>
 
-    <!-- Bottom Wave/Curve Effect (নিচের দিকের বাঁকানো অংশ) -->
-    <div style="position: absolute; bottom: 0; left: 0; width: 100%; height: 40px; background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(5px); border-radius: 50% 50% 0 0 / 100% 100% 0 0; transform: scaleX(1.2);"></div>
-  </div>
-</div>
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 40px 20px; border-radius: 20px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
+
+   <h1 style="color: #ffffff; font-size: 5.5em; font-weight: 900; margin: 0; text-shadow: 3px 3px 6px rgba(0,0,0,0.3); letter-spacing: -1px;">
+
+    🚀 Mehedi Hasan Shakib
+
+</h1>
     <div style="width: 80px; height: 4px; background: #ffffff; border-radius: 2px; margin: 15px auto;"></div>
     <p style="color: #e0e7ff; font-size: 1.4em; margin: 15px 0; font-weight: 600; letter-spacing: 0.5px;">
       ⚙️ Software Engineer || 💻 Full-Stack Develope
