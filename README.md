@@ -3,9 +3,9 @@
 
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 40px 20px; border-radius: 20px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
 
-   <h1 style="color: #ffffff; font-size: 5.5em; font-weight: 900; margin: 0; text-shadow: 3px 3px 6px rgba(0,0,0,0.3); letter-spacing: -1px;">
+   <h1 style="color: #ffffff; font-size: 7.5em; font-weight: 900; margin: 0; text-shadow: 3px 3px 6px rgba(0,0,0,0.3); letter-spacing: -1px; text-transform: uppercase;">
 
-    🚀 Mehedi Hasan Shakib
+    🚀 MEHEDI HASAN SHAKIB
 
 </h1>
     <div style="width: 80px; height: 4px; background: #ffffff; border-radius: 2px; margin: 15px auto;"></div>
