@@ -1,63 +1,47 @@
 <div align="center">
-  <!-- Interactive Header with Pulse Effect -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=280&section=header&text=Mehedi%20Hasan%20Shakib&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Architect%20|%20Backend%20Engineer&descAlignY=55&descSize=22" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=250&section=header&text=Mehedi%20Hasan%20Shakib&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Backend%20Engineer&descAlignY=55&descSize=18" alt="header" />
 
-  <!-- Animated Dynamic Typing -->
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;MERN+%26+NestJS+Expert;Freelancer+at+Fiverr;Software+QA+Specialist;Tech+Traveler+&_Mountains" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Next.js+%26+NestJS+Specialist;Software+QA+Enthusiast;Freelance+Developer" alt="Typing SVG" />
     </a>
   </p>
 
-  <!-- High-Quality Social Badges -->
   <p align="center">
     <a href="https://linkedin.com/in/mehedishakib6796"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://fiverr.com/mehedi_shakib"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
-    <a href="https://facebook.com/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
     <a href="mailto:support@aiub.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
 
 ---
 
-### ⚡ Quick Overview
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <br />
-      <p>🚀 <b>About Me:</b> I am a <b>CSE student at AIUB</b>, building robust full-stack apps with <b>Next.js, NestJS, and PostgreSQL</b>.</p>
-      <p>💼 <b>Freelancing:</b> Active <b>Full-Stack Developer on Fiverr</b>, helping clients build scalable web solutions.</p>
-      <p>🧪 <b>Expertise:</b> Deeply interested in <b>SQA, Automated Testing (Selenium)</b>, and <b>Machine Learning (YOLOv4)</b>.</p>
-      <p>🏔️ <b>Passions:</b> When not coding, I'm exploring the <b>mountains and seas</b> of Bangladesh.</p>
-    </td>
-    <td width="45%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndzR4NXp4NjB4NXp4NjB4NXp4NjB4NXp4NjB4NXp4NjB4NXp4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="350" style="border-radius: 15px;" />
-    </td>
-  </tr>
-</table>
+### About Me
+
+Computer Science & Engineering student at American International University Bangladesh (AIUB), building full-stack web applications with **Next.js, NestJS, and PostgreSQL**. Active freelance developer on Fiverr, delivering scalable web solutions for clients. Also interested in **Software Quality Assurance (Automated Testing with Selenium)** and **Machine Learning**.
 
 ---
 
-### 🛠️ Technical Ecosystem
+### Technical Skills
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <b>🌐 Languages</b><br/>
+      <b>Languages</b><br/>
       <img src="https://skillicons.dev/icons?i=ts,js,html,css,cpp" />
     </td>
     <td valign="top" width="50%">
-      <b>🚀 Frameworks & Runtimes</b><br/>
+      <b>Frameworks & Runtimes</b><br/>
       <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,react,nextjs,tailwind" />
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <b>🗄️ Databases & ORM</b><br/>
+      <b>Databases & ORM</b><br/>
       <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma" />
     </td>
     <td valign="top" width="50%">
-      <b>🔧 Tools & SQA</b><br/>
+      <b>Tools & QA</b><br/>
       <img src="https://skillicons.dev/icons?i=git,github,docker,selenium,postman,vscode,figma" />
     </td>
   </tr>
@@ -65,42 +49,33 @@
 
 ---
 
-### 📂 Major Projects
+### Featured Projects
 
-- 🏨 **[Hotel Booking Platform](https://github.com/mehedishakib6796/adv_web_hotel-frontend)** – Full-stack hotel booking system with JWT auth, room booking/management, and real-time notifications via Pusher. *(NestJS, TypeORM, PostgreSQL, Next.js, Tailwind CSS)*
-  - Backend: https://github.com/mehedishakib6796/adv_web_hotel-backend
-  - Frontend: https://github.com/mehedishakib6796/adv_web_hotel-frontend
+**[Hotel Booking Platform](https://github.com/mehedishakib6796/adv_web_hotel-frontend)**
+Full-stack hotel booking system with JWT authentication, room booking and management, and real-time notifications via Pusher.
+`NestJS` `TypeORM` `PostgreSQL` `Next.js` `Tailwind CSS`
+Backend: https://github.com/mehedishakib6796/adv_web_hotel-backend · Frontend: https://github.com/mehedishakib6796/adv_web_hotel-frontend
 
-- 💊 **[MS Pharma](https://github.com/mehedishakib6796/MS_Pharma-Frontend)** – Role-based pharmacy management system (Pharmacist & Customer) for medicine inventory and order processing. *(NestJS, TypeORM, PostgreSQL, JWT, Swagger, Next.js)*
-  - Backend: https://github.com/mehedishakib6796/MS_Pharma-Backend
-  - Frontend: https://github.com/mehedishakib6796/MS_Pharma-Frontend
+**[MS Pharma](https://github.com/mehedishakib6796/MS_Pharma-Frontend)**
+Role-based pharmacy management system (Pharmacist & Customer) for medicine inventory and order processing.
+`NestJS` `TypeORM` `PostgreSQL` `JWT` `Swagger` `Next.js`
+Backend: https://github.com/mehedishakib6796/MS_Pharma-Backend · Frontend: https://github.com/mehedishakib6796/MS_Pharma-Frontend
 
-- 🍱 **[Vhai Vhai Food](https://github.com/mehedishakib6796/bhai-bhai-food)** – Animated business landing page for a food manufacturing brand with an interactive product showcase and WhatsApp ordering. *(Next.js, Tailwind CSS, Framer Motion)*
+**[Vhai Vhai Food](https://github.com/mehedishakib6796/bhai-bhai-food)**
+Business landing page for a food manufacturing brand, featuring an interactive product showcase and WhatsApp ordering integration.
+`Next.js` `Tailwind CSS` `Framer Motion`
 
 ---
 
-### 📈 Activity & Ecosystem
+### GitHub Analytics
 
-<!-- 3D Isometric Contribution Graph -->
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=mehedishakib6796&theme=radical" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehedishakib6796&show_icons=true&theme=default&rank_icon=github&border_radius=10" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedishakib6796&layout=compact&theme=default&border_radius=10" height="195" />
 </p>
 
-<!-- Dynamic Activity Wave -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehedishakib6796&theme=radical&area=true&hide_border=true" width="100%" />
-</p>
-
-<div align="center">
-  <!-- Detailed GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mehedishakib6796&show_icons=true&theme=radical&rank_icon=github&border_radius=10" height="195" />
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedishakib6796&layout=compact&theme=radical&border_radius=10" height="195" />
-</div>
-
-<!-- Animated Commit Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedishakib6796&theme=radical&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedishakib6796&theme=default&hide_border=true" alt="Streak" />
 </p>
 
 ---
