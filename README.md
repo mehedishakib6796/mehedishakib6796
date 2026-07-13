@@ -1,12 +1,12 @@
 <!-- HEADER -->
 <div align="center">
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 40px 20px; border-radius: 20px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
-    <h1 style="color: #ffffff; font-size: 3.5em; font-weight: 900; margin: 0; text-shadow: 3px 3px 6px rgba(0,0,0,0.3); letter-spacing: -1px;">
+    <h1 style="color: #ffffff; font-size: 4.3em; font-weight: 900; margin: 0; text-shadow: 3px 3px 6px rgba(0,0,0,0.3); letter-spacing: -1px;">
       🚀 Mehedi Hasan Shakib
     </h1>
     <div style="width: 80px; height: 4px; background: #ffffff; border-radius: 2px; margin: 15px auto;"></div>
     <p style="color: #e0e7ff; font-size: 1.4em; margin: 15px 0; font-weight: 600; letter-spacing: 0.5px;">
-      💻 Full-Stack Developer | 🏗️ Backend Engineer | ⚡ API Craftsman
+      💻 Full-Stack Developer | 🚀 Freelance Developer | ⚡ API Craftsman
     </p>
     <div style="display: flex; justify-content: center; gap: 20px; margin-top: 25px;">
       <span style="background: rgba(255,255,255,0.2); padding: 8px 16px; border-radius: 20px; font-size: 0.9em; font-weight: 500;">Next.js</span>
@@ -39,22 +39,19 @@
 
 ## ⚡ About Me
 
-```js
-const shakib = {
-  role: "Full-Stack Developer",
-  education: "CSE Student @ AIUB",
-  location: "Bangladesh 🇧🇩",
-  focus: ["Full-Stack Web Apps", "REST APIs", "Clean Architecture"],
-  currentlyExploring: ["SQA & Selenium", "Machine Learning (YOLOv4)"],
-  funFact: "Also a Full-Stack Developer on Fiverr 💼"
-};
-```
+<table>
+<tr><td>🎯 <b>Role</b></td><td>Full-Stack Developer</td></tr>
+<tr><td>🎓 <b>Education</b></td><td>CSE Student @ AIUB</td></tr>
+<tr><td>📍 <b>Location</b></td><td>Bangladesh 🇧🇩</td></tr>
+<tr><td>🔭 <b>Focus</b></td><td>Full-Stack Web Apps · REST APIs · Clean Architecture</td></tr>
+<tr><td>🧪 <b>Exploring</b></td><td>SQA & Selenium · Machine Learning (YOLOv4)</td></tr>
+<tr><td>💼 <b>Fun Fact</b></td><td>Also a Full-Stack Developer on Fiverr</td></tr>
+</table>
 
 - 🔭 Building **full-stack applications** with Next.js & NestJS
 - 🏗️ Passionate about **REST API design** & **Role-Based Access Control**
 - 🧪 Exploring **Software QA (Selenium)** & **Machine Learning**
 - 💬 Ask me about **Next.js, NestJS, PostgreSQL, MongoDB, TypeORM**
-- 📫 Reach me at **support@aiub.edu**
 
 <br clear="both"/>
 
@@ -123,40 +120,47 @@ const shakib = {
 
 ---
 
-<!-- ARCHITECTURE -->
-## 🏛️ Backend Philosophy
-
-<div align="center">
-
-```
-📦 Patterns & Practices I Follow
-├── 🎯 Controller → Service → Repository Pattern
-├── 🔐 Role-Based Auth Systems (JWT)
-├── 📡 RESTful API Design & Documentation (Swagger)
-├── 🗄️ Relational Data Modeling (TypeORM + PostgreSQL)
-├── 🔔 Real-time Notifications (Pusher)
-└── ✅ Input Validation & Error Handling
-```
-
-</div>
-
----
-
 ## 📂 Featured Projects
 
-**🏨 [Hotel Booking Platform](https://github.com/mehedishakib6796/adv_web_hotel-frontend)**
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🏨 Hotel Booking Platform
+
 Full-stack hotel booking system with JWT authentication, room booking & management, and real-time notifications via Pusher.
+
 `NestJS` `TypeORM` `PostgreSQL` `Next.js` `Tailwind CSS`
-[Backend](https://github.com/mehedishakib6796/adv_web_hotel-backend) · [Frontend](https://github.com/mehedishakib6796/adv_web_hotel-frontend)
 
-**💊 [MS Pharma](https://github.com/mehedishakib6796/MS_Pharma-Frontend)**
+🔗 [Live Demo](https://hotel-royal-management.vercel.app/)
+📦 [Backend](https://github.com/mehedishakib6796/adv_web_hotel-backend) · [Frontend](https://github.com/mehedishakib6796/adv_web_hotel-frontend)
+
+</td>
+<td width="33%" valign="top">
+
+### 💊 MS Pharma
+
 Role-based pharmacy management system (Pharmacist & Customer) for medicine inventory and order processing.
-`NestJS` `TypeORM` `PostgreSQL` `JWT` `Swagger` `Next.js`
-[Backend](https://github.com/mehedishakib6796/MS_Pharma-Backend) · [Frontend](https://github.com/mehedishakib6796/MS_Pharma-Frontend)
 
-**🍱 [Vhai Vhai Food](https://github.com/mehedishakib6796/bhai-bhai-food)**
+`NestJS` `TypeORM` `PostgreSQL` `JWT` `Swagger` `Next.js`
+
+📦 [Backend](https://github.com/mehedishakib6796/MS_Pharma-Backend) · [Frontend](https://github.com/mehedishakib6796/MS_Pharma-Frontend)
+
+</td>
+<td width="33%" valign="top">
+
+### 🍱 Vhai Vhai Food
+
 Animated business landing page for a food manufacturing brand with an interactive product showcase and WhatsApp ordering.
+
 `Next.js` `Tailwind CSS` `Framer Motion`
+
+🔗 [Live Demo](https://www.bhaibhaifoodproducts.com)
+📦 [Repo](https://github.com/mehedishakib6796/bhai-bhai-food)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -186,14 +190,6 @@ Animated business landing page for a food manufacturing brand with an interactiv
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehedishakib6796&theme=tokyonight" width="32%" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehedishakib6796&theme=tokyonight" width="32%" alt="Most Commit Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mehedishakib6796&theme=tokyonight&utcOffset=6" width="32%" alt="Productive Time" />
-</div>
-
----
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=mehedishakib6796&limit=5&theme=default&combine_all_yearly_contributions=true&hide_border=true" width="70%" alt="Top Contributed Repos" />
 </div>
 
 ---
