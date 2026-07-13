@@ -25,7 +25,7 @@
   <tr>
     <td width="55%" valign="top">
       <br />
-      <p>🚀 <b>About Me:</b> I am a <b>CSE student at AIUB</b>, building robust backends with <b>NestJS, TypeScript, and PostgreSQL</b>.</p>
+      <p>🚀 <b>About Me:</b> I am a <b>CSE student at AIUB</b>, building robust full-stack apps with <b>Next.js, NestJS, and PostgreSQL</b>.</p>
       <p>💼 <b>Freelancing:</b> Active <b>Full-Stack Developer on Fiverr</b>, helping clients build scalable web solutions.</p>
       <p>🧪 <b>Expertise:</b> Deeply interested in <b>SQA, Automated Testing (Selenium)</b>, and <b>Machine Learning (YOLOv4)</b>.</p>
       <p>🏔️ <b>Passions:</b> When not coding, I'm exploring the <b>mountains and seas</b> of Bangladesh.</p>
@@ -35,10 +35,6 @@
     </td>
   </tr>
 </table>
-
----
-
----
 
 ---
 
@@ -67,12 +63,19 @@
   </tr>
 </table>
 
----------
+---
 
 ### 📂 Major Projects
-- 🏛️ **UniConnect** – A full-scale University Management System.
-- 🛒 **CircuitCart** – A secure e-commerce platform for Computer Accessories.
-- 🍱 **Vhai Vhai Food** – Food product e-commerce and branding solution.
+
+- 🏨 **[Hotel Booking Platform](https://github.com/mehedishakib6796/adv_web_hotel-frontend)** – Full-stack hotel booking system with JWT auth, room booking/management, and real-time notifications via Pusher. *(NestJS, TypeORM, PostgreSQL, Next.js, Tailwind CSS)*
+  - Backend: https://github.com/mehedishakib6796/adv_web_hotel-backend
+  - Frontend: https://github.com/mehedishakib6796/adv_web_hotel-frontend
+
+- 💊 **[MS Pharma](https://github.com/mehedishakib6796/MS_Pharma-Frontend)** – Role-based pharmacy management system (Pharmacist & Customer) for medicine inventory and order processing. *(NestJS, TypeORM, PostgreSQL, JWT, Swagger, Next.js)*
+  - Backend: https://github.com/mehedishakib6796/MS_Pharma-Backend
+  - Frontend: https://github.com/mehedishakib6796/MS_Pharma-Frontend
+
+- 🍱 **[Vhai Vhai Food](https://github.com/mehedishakib6796/bhai-bhai-food)** – Animated business landing page for a food manufacturing brand with an interactive product showcase and WhatsApp ordering. *(Next.js, Tailwind CSS, Framer Motion)*
 
 ---
 
